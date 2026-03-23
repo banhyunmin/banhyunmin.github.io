@@ -38,7 +38,12 @@
 @use "font-awesome/solid";
 @use "font-awesome/regular";
 
+.profile {
+  width: 230px !important;
+}
+
 .profile img {
-  width: 82%;
-  max-width: 320px;
+  width: 100% !important;
+  max-width: 230px !important;
+  height: auto !important;
 }
