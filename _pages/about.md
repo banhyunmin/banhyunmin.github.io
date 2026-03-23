@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Department of Electrical and Electronic Engineering</p>
+    <p>Department of Electrical and Computer Engineering</p>
     <p>The University of Hong Kong</p>
 
 selected_papers: true
