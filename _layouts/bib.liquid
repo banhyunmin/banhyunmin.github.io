@@ -34,7 +34,7 @@
             include figure.liquid
             loading="eager"
             path=entry_path
-            sizes = "200px"
+            sizes = "240px"
             class="preview z-depth-1 rounded"
             avoid_scaling=true
             alt=entry.preview
@@ -182,9 +182,12 @@
     <div class="periodical">
       {{ periodical | strip }}
     </div>
-    <div class="periodical">
-      {{ entry.note | strip }}
-    </div>
+    {% assign note_text = entry.note | strip %}
+    {% if note_text != '' %}
+      <div class="periodical award-note">
+        {{ note_text }}
+      </div>
+    {% endif %}
 
     <!-- Links/Buttons -->
     <div class="links">

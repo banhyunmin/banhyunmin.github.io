@@ -41,6 +41,10 @@
 
       .preview {
         display: inline-block;
+        width: 100%;
+        max-width: 240px;
+        transform: scale(1.04);
+        transform-origin: center;
       }
 
       .abbr {
@@ -69,6 +73,11 @@
 
       .title {
         font-weight: bolder;
+      }
+
+      .periodical.award-note {
+        color: #aa3939;
+        font-weight: 600;
       }
 
       .author {
