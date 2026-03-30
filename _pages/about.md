@@ -7,7 +7,7 @@ subtitle: PhD Student, The University of Hong Kong
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false
+  image_circular: true
   more_info: >
     <p>Department of Electrical and Computer Engineering</p>
     <p>The University of Hong Kong</p>
@@ -24,9 +24,9 @@ latest_posts:
   enabled: false
 ---
 
-I am a PhD student at The University of Hong Kong working on computational holography, AR/VR, graphics, and vision.
+I am a PhD student at The University of Hong Kong working on computational holography, holographic near-eye displays, and efficient visual representation for AR/VR systems.
 
-My research interests include computational holography, holographic near-eye displays, light field, and video compression.
+My research lies at the intersection of computational imaging, graphics, and vision, with interests in light field representation, 3D visual computing, and compression.
 
 **Contact**  
 Email: hmban@connect.hku.hk
