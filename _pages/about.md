@@ -26,7 +26,7 @@ latest_posts:
 
 I am a PhD student at The University of Hong Kong working on computational holography, AR/VR, graphics, and vision.
 
-My research interests include computational holography, holographic near-eye displays, light field supervision, implicit neural representations, and compression.
+My research interests include computational holography, holographic near-eye displays, light field, and video compression.
 
 **Contact**  
 Email: hmban@connect.hku.hk
