@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-11'
+  last_updated: '2026-05-22'
 papers:
   1YEd8ggAAAAJ:2osOgNQ5qMEC:
     citations: 1
@@ -10,7 +10,7 @@ papers:
     title: Deep Learning-based Phase-Only Hologram Super Resolution using Circular Loss
     year: '2021'
   1YEd8ggAAAAJ:IjCSPb-OGe4C:
-    citations: 15
+    citations: 16
     title: HEVC extension for phase hologram compression
     year: '2023'
   1YEd8ggAAAAJ:LkGwnXOMwfcC:
