@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-22'
+  last_updated: '2026-05-25'
 papers:
   1YEd8ggAAAAJ:2osOgNQ5qMEC:
     citations: 1
@@ -30,7 +30,7 @@ papers:
     title: Compression Performance Evaluation of Full-Complex Hologram Representations
     year: '2022'
   1YEd8ggAAAAJ:UebtZRa9Y70C:
-    citations: 0
+    citations: 1
     title: Towards Edge Holography via Implicit Neural Representation and Compression
     year: '2026'
   1YEd8ggAAAAJ:W7OEmFMy1HYC:
