@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-20'
 papers:
   1YEd8ggAAAAJ:2osOgNQ5qMEC:
     citations: 1
@@ -10,7 +10,7 @@ papers:
     title: Deep Learning-based Phase-Only Hologram Super Resolution using Circular Loss
     year: '2021'
   1YEd8ggAAAAJ:IjCSPb-OGe4C:
-    citations: 17
+    citations: 18
     title: HEVC extension for phase hologram compression
     year: '2023'
   1YEd8ggAAAAJ:LkGwnXOMwfcC:
@@ -31,7 +31,7 @@ papers:
     year: '2022'
   1YEd8ggAAAAJ:UebtZRa9Y70C:
     citations: 2
-    title: Towards Edge Holography via Implicit Neural Representation and Compression
+    title: Towards edge holography via implicit neural representation and compression
     year: '2026'
   1YEd8ggAAAAJ:W7OEmFMy1HYC:
     citations: 0
